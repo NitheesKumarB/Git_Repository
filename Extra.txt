@@ -1,3 +1,7 @@
 This is my new file
 
+
 Changes in master
+
+This is edited in branch
+
